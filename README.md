@@ -1,0 +1,1 @@
+playground for reactredux with TypeScript on .NET core
